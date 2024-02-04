@@ -1,5 +1,4 @@
 import React from "react";
-import "/public/producto_imagen/imagen_bilz.png";
 import { Link } from "react-router-dom";
 function Item({ producto }) {
   return (
