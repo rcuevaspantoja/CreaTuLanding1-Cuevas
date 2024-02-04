@@ -1,6 +1,81 @@
-.navbar {
-  background-color: rgb(153, 223, 200);
-  padding: 5px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ItemListContainer,
+.Error404 {
+  min-height: 100vh;
 }
 
+.Error404 {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.cargando {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  min-height: 100vh;
+}
+
+.item {
+  margin: 5px;
+  width: 250px;
+}
+
+.nombreProducto {
+  min-height: 70px;
+}
+
+.botonCard{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.itemDetailContainer{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.itemDetailDescription{
+  width: 30%;
+  max-width: 450px;
+  padding: 10px 25px 10px 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid rgb(149, 149, 150);
+  border-radius: 5px;
+  background-color: rgb(231, 231, 234);
+}
+
+.imagenDetalle{
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 25px;
+}
+
+@media only screen and (max-width: 1024px) {
+
+  .itemDetailContainer{
+    flex-direction: column;
+    padding-bottom: 50px;
+  }
+
+  .itemDetailDescription{
+    width: 80%;
+    align-items: center;
+  }
+
+  .imagenDetalle{
+    max-width: 80%;
+  }
+}
