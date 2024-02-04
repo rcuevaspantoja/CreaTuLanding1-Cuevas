@@ -2,7 +2,7 @@
   {
     "id": 0,
     "nombreProducto": "Mix de berries 400g",
-    "imagenRuta": "/public/static/item_berries.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_berries.png",
     "nombreMarca": "Frutos del Maipo",
     "valor": 3799,
     "categoria": "comida"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "nombreProducto": "Bebida Coca-Cola sin Azúcar 1.5L",
-    "imagenRuta": "/public/static/item_cocacola.jpg",
+    "imagenRuta": "/src/assets/producto_imagen/item_cocacola.jpg",
     "nombreMarca": "Coca-Cola",
     "valor": 1499,
     "categoria": "bebida"
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "nombreProducto": "Bebida Isotónica Gatorade Blue 1L",
-    "imagenRuta": "/public/static/item_gatorade.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_gatorade.png",
     "nombreMarca": "Gatorade",
     "valor": 1529,
     "categoria": "bebida"
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "nombreProducto": "Queso Mantecoso Quilque Laminado 500g",
-    "imagenRuta": "/public/static/item_queso.jpg",
+    "imagenRuta": "/src/assets/producto_imagen/item_queso.jpg",
     "nombreMarca": "Soprole",
     "valor": 5099,
     "categoria": "comida"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "nombreProducto": "Helado Papaya a la crema 1L",
-    "imagenRuta": "/public/static/item_helado.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_helado.png",
     "nombreMarca": "San Francisco de Loncomilla",
     "valor": 4999,
     "categoria": "comida"
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "nombreProducto": "Pechuga Deshuesada 850gr",
-    "imagenRuta": "/public/static/item_pechuga.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_pechuga.png",
     "nombreMarca": "Super Pollo",
     "valor": 5499,
     "categoria": "comida"
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "nombreProducto": "Leche Descremada 1L",
-    "imagenRuta": "/public/static/item_leche.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_leche.png",
     "nombreMarca": "Cuisine & Co",
     "valor": 969,
     "categoria": "bebida"
@@ -58,14 +58,14 @@
   {
     "id": 7,
     "nombreProducto": "Bizcocho Chocman Pack 8u. 33gr",
-    "imagenRuta": "/public/static/item_chocman.png",
+    "imagenRuta": "/src/assets/producto_imagen/item_chocman.png",
     "nombreMarca": "Costa",
     "valor": 1999,
     "categoria": "comida"
   },  {
     "id": 8,
     "nombreProducto": "Galletas limón & chocolate blanco 200 g",
-    "imagenRuta": "/public/static/imagen_lemonCookies.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_lemonCookies.png",
     "nombreMarca": "Merba",
     "valor": 2699 ,
     "categoria": "comida"
@@ -73,7 +73,7 @@
    {
     "id": 9,
     "nombreProducto": "Shampoo Dove Men Sport Active Fresh 400 ml",
-    "imagenRuta": "/public/static/imagen_doveMen.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_doveMen.png",
     "nombreMarca": "Dove Men",
     "valor": 2939,
     "categoria": "aseo"
@@ -81,7 +81,7 @@
   {
     "id": 10,
     "nombreProducto": "Mini Turron 300 g",
-    "imagenRuta": "/public/static/imagen_turron.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_turron.png",
     "nombreMarca": "Ambrosoli",
     "valor": 1749,
     "categoria": "comida"
@@ -89,7 +89,7 @@
   {
     "id": 11,
     "nombreProducto": "Pack 4 un. Cerveza Kunstmann Torobayo botella 330 cc",
-    "imagenRuta": "/public/static/imagen_torobayo.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_torobayo.png",
     "nombreMarca": "Kunstmann",
     "valor": 4990,
     "categoria": "bebida"
@@ -97,7 +97,7 @@
   {
     "id": 12,
     "nombreProducto": "Bebida Bilz Zero 1.5 L",
-    "imagenRuta": "/public/static/imagen_bilz.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_bilz.png",
     "nombreMarca": "Bilz",
     "valor": 1990,
     "categoria": "bebida"
@@ -105,7 +105,7 @@
   {
     "id": 13,
     "nombreProducto": "Chocolate Bombónes Cerezas al Licor 120 g",
-    "imagenRuta": "/public/static/imagen_chocolate.png",
+    "imagenRuta": "/src/assets/producto_imagen/imagen_chocolate.png",
     "nombreMarca": "Ambrosoli",
     "valor": 2719,
     "categoria": "comida"
