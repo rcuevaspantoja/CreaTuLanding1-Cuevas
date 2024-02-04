@@ -9,3 +9,7 @@ Correr en Shell ```npm install```
 ```npm run dev```
 
 ``` npx tailwindcss -i ./src/styles/index.css -o ./src/output.css --watch ```
+
+## Detalles
+
+Estilado con Tailwind, programado con React
